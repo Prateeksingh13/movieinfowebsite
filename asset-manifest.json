@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/movieinfowebsite/static/css/main.8aa30f80.chunk.css",
+    "main.js": "/movieinfowebsite/static/js/main.4bd5f488.chunk.js",
+    "main.js.map": "/movieinfowebsite/static/js/main.4bd5f488.chunk.js.map",
+    "runtime-main.js": "/movieinfowebsite/static/js/runtime-main.ee8a450e.js",
+    "runtime-main.js.map": "/movieinfowebsite/static/js/runtime-main.ee8a450e.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/movieinfowebsite/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.db856861.chunk.js": "/movieinfowebsite/static/js/2.db856861.chunk.js",
+    "static/js/2.db856861.chunk.js.map": "/movieinfowebsite/static/js/2.db856861.chunk.js.map",
+    "static/js/3.e449b647.chunk.js": "/movieinfowebsite/static/js/3.e449b647.chunk.js",
+    "static/js/3.e449b647.chunk.js.map": "/movieinfowebsite/static/js/3.e449b647.chunk.js.map",
+    "index.html": "/movieinfowebsite/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/movieinfowebsite/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.8aa30f80.chunk.css.map": "/movieinfowebsite/static/css/main.8aa30f80.chunk.css.map",
+    "static/js/2.db856861.chunk.js.LICENSE.txt": "/movieinfowebsite/static/js/2.db856861.chunk.js.LICENSE.txt",
+    "static/media/avatar.abb91673.png": "/movieinfowebsite/static/media/avatar.abb91673.png",
+    "static/media/end.e67543b4.png": "/movieinfowebsite/static/media/end.e67543b4.png",
+    "static/media/gg.f06e459c.png": "/movieinfowebsite/static/media/gg.f06e459c.png",
+    "static/media/logo.c5ffc5b0.png": "/movieinfowebsite/static/media/logo.c5ffc5b0.png",
+    "static/media/war.8afc33c8.png": "/movieinfowebsite/static/media/war.8afc33c8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee8a450e.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.db856861.chunk.js",
+    "static/css/main.8aa30f80.chunk.css",
+    "static/js/main.4bd5f488.chunk.js"
+  ]
+}
